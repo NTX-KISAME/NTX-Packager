@@ -1,0 +1,9 @@
+.idea
+# Pending to be fix!
+packager/unpack.go
+
+go.sum
+*.exe
+# Testing Files
+*.mp3
+*.pck
